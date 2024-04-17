@@ -1,1 +1,4 @@
 This is March 23 batch. Modifying this line.
+Command list:
+git init
+git diff

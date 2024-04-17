@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="905a3583-5eb9-4b1c-a016-5d939425c1d0" name="Changes" comment="Adding file D" />
+    <list default="true" id="905a3583-5eb9-4b1c-a016-5d939425c1d0" name="Changes" comment="Adding file D">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -72,7 +74,11 @@
       <workItem from="1713059553626" duration="42000" />
       <workItem from="1713059600934" duration="42000" />
       <workItem from="1713059646903" duration="1219000" />
-      <workItem from="1713060934104" duration="300000" />
+      <workItem from="1713060934104" duration="537000" />
+      <workItem from="1713061475472" duration="619000" />
+      <workItem from="1713306434945" duration="33000" />
+      <workItem from="1713306481743" duration="102000" />
+      <workItem from="1713306588476" duration="12000" />
     </task>
     <task id="LOCAL-00001" summary="Adding file D">
       <option name="closed" value="true" />
