@@ -3,4 +3,5 @@ Command list:
 git init
 git diff
 git checkout
-git  logg
+git checkout -b [branch_name]
+git  log
